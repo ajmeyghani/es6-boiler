@@ -1,5 +1,5 @@
 const hello = () => {
-  console.log('hello there');
+  return 'Hello there!';
 };
 
 export {hello}

@@ -1,2 +1,3 @@
 import {hello} from 'hello';
-hello();
+var intro = document.getElementById('intro');
+intro.textContent = hello();

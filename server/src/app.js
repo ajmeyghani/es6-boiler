@@ -11,7 +11,4 @@ App.prototype.send = function(url, obj) {
   });
 };
 
-const app = App();
-export {app};
-
-
+export default App();

@@ -1,4 +1,4 @@
-import {app} from 'app';
+import app from 'app';
 import path from 'path';
 const settings = {
   port: process.env.PORT || 8052,
