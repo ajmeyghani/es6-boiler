@@ -1,6 +1,6 @@
 # ES6 Boiler
 
-The simplest boilerplate possible to work with es2015, webpack and babel, for the client and the server.
+The simplest boilerplate possible to work with es2015, webpack and babel, for the client and the server!
 
 ## Usage
 
